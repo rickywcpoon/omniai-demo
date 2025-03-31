@@ -36,7 +36,7 @@ const SocialHarmonyCaseStudyPage = () => {
             {/* Placeholder for potential chart component */}
             {/* <div className="my-6 h-48 bg-dark-card border border-dystopian-blue/20 rounded flex items-center justify-center text-medium-text">Chart Placeholder: Compliance Metrics Over Time</div> */}
           </section>
-           <section>
+          <section>
             <h2 className="font-heading text-2xl text-dystopian-red mb-4 flex items-center"><ChartBarIcon className="h-6 w-6 mr-2"/> Conclusion</h2>
             <p>The successful optimization of Sector Gamma-7 validates the efficacy of OmniQuery AI's data-driven social harmonization protocols. Proactive identification and targeted intervention based on continuous monitoring and predictive analysis effectively neutralize dissent vectors and ensure predictable, stable social order, maximizing systemic efficiency and collective function.</p>
           </section>

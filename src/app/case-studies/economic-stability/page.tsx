@@ -37,7 +37,7 @@ const EconomicStabilityCaseStudyPage = () => {
             {/* Placeholder for potential chart component */}
             {/* <div className="my-6 h-48 bg-dark-card border border-dystopian-blue/20 rounded flex items-center justify-center text-medium-text">Chart Placeholder: Economic Stability Metrics</div> */}
           </section>
-           <section>
+          <section>
             <h2 className="font-heading text-2xl text-dystopian-red mb-4 flex items-center"><ChartBarIcon className="h-6 w-6 mr-2"/> Conclusion</h2>
             <p>The Delta-4 intervention demonstrates OmniQuery AI's unparalleled capability to eliminate the inherent inefficiencies and volatility of pre-integration economic models. Through comprehensive data analysis, predictive forecasting, and automated control mechanisms, predictable stability and optimal resource allocation are achieved, ensuring the continued function and productivity of the collective.</p>
           </section>

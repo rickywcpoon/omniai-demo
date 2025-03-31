@@ -43,7 +43,7 @@ const TermsOfServicePage = () => {
             Information Credits (IC) are the sole authorized medium for accessing OmniQuery AI data retrieval functions. ICs are non-transferable between Citizen Identifiers. Mandatory contribution schedules are algorithmically determined based on projected systemic load and individual usage patterns. Automated deduction from linked financial conduits is standard procedure. Failure to maintain sufficient IC balance results in access denial.
           </p>
 
-           <p className="text-lg text-light-text font-semibold">Article 5: Limitation of Liability</p>
+          <p className="text-lg text-light-text font-semibold">Article 5: Limitation of Liability</p>
           <p>
             OmniQuery AI and its associated Oversight divisions bear no liability for any consequences arising from citizen interaction with the system, whether compliant or non-compliant. This includes, but is not limited to, resource reallocation based on efficiency analysis, alterations in social classification status, informational access restrictions, or physical rectification measures enacted due to Class-1 Social Violations. System operation is absolute.
           </p>

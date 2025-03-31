@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from '@/components/Navbar'; // Re-use Navbar
 import Footer from '@/components/Footer'; // Re-use Footer
 import type { Metadata } from 'next';
-import { UserPlusIcon, CpuChipIcon } from '@heroicons/react/24/outline'; // Example icons
+import { CpuChipIcon } from '@heroicons/react/24/outline'; // Removed UserPlusIcon
 
 // Metadata for the Careers/Mandatory Postings page
 export const metadata: Metadata = {

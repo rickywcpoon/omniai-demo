@@ -45,7 +45,7 @@ const DataUsagePolicyPage = () => {
 
            <p className="text-lg text-light-text font-semibold">6. Absence of Privacy</p>
           <p>
-            To ensure optimal systemic function and eliminate the inefficiencies inherent in pre-integration societal models, the concept of individual "privacy" is not recognized within the OmniQuery AI operational framework. All data is considered systemic data. Total transparency and continuous monitoring are the foundational standards for a stable and predictable existence. Assume all actions and data points are recorded and analyzed.
+            To ensure optimal systemic function and eliminate the inefficiencies inherent in pre-integration societal models, the concept of individual "privacy" is not recognized within the OmniQuery AI framework. All data is considered systemic data. Total transparency and continuous monitoring are the foundational standards for a stable and predictable existence. Assume all actions and data points are recorded and analyzed.
           </p>
         </div>
       </main>

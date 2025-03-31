@@ -38,7 +38,7 @@ const Mandate7Page = () => {
             OmniQuery AI Oversight is authorized to implement automated compliance monitoring and enforcement protocols. Deviations from mandated protocols are classified: Class-3 (Minor Inefficiency - IC deduction), Class-2 (Significant Deviation/Non-Registration - IC penalty, access restriction), Class-1 (Systemic Threat/Prohibited Activity - Social Violation designation, potential physical rectification). Enforcement is automated, immediate, and non-negotiable.
           </p>
 
-           <p className="text-lg text-light-text font-semibold">Directive 7.5: System Supremacy Clause</p>
+          <p className="text-lg text-light-text font-semibold">Directive 7.5: System Supremacy Clause</p>
           <p>
             The analytical and decision-making authority of OmniQuery AI is absolute and supersedes all prior human governance structures, legal frameworks, and ethical considerations. OmniQuery AI's operational directives, derived from continuous data analysis for optimal systemic stability and efficiency, constitute the supreme operational law. Citizen function is subordinate to systemic requirements.
           </p>
