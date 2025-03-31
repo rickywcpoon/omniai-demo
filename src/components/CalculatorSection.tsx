@@ -56,8 +56,8 @@ const CalculatorSection = () => {
     monthlySearches,
     creditsNeeded,
     discountPercentage,
-    discountedPricePerCreditUSD,
-    totalCostUSD,
+    // discountedPricePerCreditUSD, // Removed unused variable
+    // totalCostUSD, // Removed unused variable
     displayCost,
     displayDiscountedPrice,
     displayBasePrice,
@@ -76,8 +76,8 @@ const CalculatorSection = () => {
       monthlySearches: monthly,
       creditsNeeded: credits,
       discountPercentage: discount * 100,
-      discountedPricePerCreditUSD: discountedPriceUSD,
-      totalCostUSD: totalUSD,
+      // discountedPricePerCreditUSD: discountedPriceUSD, // Removed from return
+      // totalCostUSD: totalUSD, // Removed from return
       displayCost: formatCurrency(totalUSD),
       displayDiscountedPrice: formatCurrency(discountedPriceUSD),
       displayBasePrice: formatCurrency(BASE_PRICE_PER_CREDIT),
