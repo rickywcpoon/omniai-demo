@@ -61,13 +61,13 @@ export const metadata: Metadata = {
       'max-snippet': -1,
     },
   },
-  // Optional: Add icons/manifest later if needed
-  // icons: {
-  //   icon: '/favicon.ico',
-  //   shortcut: '/favicon-16x16.png',
-  //   apple: '/apple-touch-icon.png',
-  // },
-  // manifest: '/site.webmanifest',
+  // Add favicon reference
+  icons: {
+    icon: '/omniai_favicon_144.png', // Reference the new favicon in /public
+    // shortcut: '/favicon-16x16.png', // Keep commented unless you have these
+    // apple: '/apple-touch-icon.png', // Keep commented unless you have these
+  },
+  // manifest: '/site.webmanifest', // Keep commented unless you have this
 };
 
 // Restore RootLayout function definition
