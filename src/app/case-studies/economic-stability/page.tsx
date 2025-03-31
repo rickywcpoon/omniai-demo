@@ -7,7 +7,8 @@ import { ChartBarIcon, ScaleIcon } from '@heroicons/react/24/outline'; // Exampl
 // Metadata for the Economic Stability Case Study page
 export const metadata: Metadata = {
   title: 'Case Study: Economic Stability Protocols | OmniQuery AI',
-  description: 'Demonstration of OmniQuery AI\'s predictive economic modeling and resource allocation protocols for ensuring market stability.',
+  // Rephrased description to avoid apostrophe
+  description: 'Demonstration of OmniQuery AI predictive economic modeling and resource allocation protocols for ensuring market stability.',
 };
 
 const EconomicStabilityCaseStudyPage = () => {
@@ -37,7 +38,7 @@ const EconomicStabilityCaseStudyPage = () => {
             {/* Placeholder for potential chart component */}
             {/* <div className="my-6 h-48 bg-dark-card border border-dystopian-blue/20 rounded flex items-center justify-center text-medium-text">Chart Placeholder: Economic Stability Metrics</div> */}
           </section>
-          <section>
+           <section>
             <h2 className="font-heading text-2xl text-dystopian-red mb-4 flex items-center"><ChartBarIcon className="h-6 w-6 mr-2"/> Conclusion</h2>
             <p>The Delta-4 intervention demonstrates OmniQuery AI's unparalleled capability to eliminate the inherent inefficiencies and volatility of pre-integration economic models. Through comprehensive data analysis, predictive forecasting, and automated control mechanisms, predictable stability and optimal resource allocation are achieved, ensuring the continued function and productivity of the collective.</p>
           </section>
